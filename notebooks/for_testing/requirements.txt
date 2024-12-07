@@ -1,0 +1,11 @@
+transformers
+torch
+scikit-learn
+https://github.com/AnswerDotAI/byaldi.git
+pandas
+numpy
+qwen-vl-utils
+Spire.Doc
+poppler-utils
+pdf2image
+flash-attn
