@@ -6,6 +6,8 @@
 
 Для успешной работы обязательно потребуются данные хакатона, скачать можно [здесь](https://drive.google.com/file/d/1bHGJGOnVtRYCl7LJ8eR7VGwKd6C7eMK6/view?usp=drive_link).
 
+Презентация проекта: [ссылка](https://docs.google.com/presentation/d/1YBeiMNJQSEzJx8hK0fFps5mEyzG_nEi2/edit#slide=id.g31c94cb3218_0_169)
+
 ## Информация о ноутбуках
 
 Существует две версии решения: 
