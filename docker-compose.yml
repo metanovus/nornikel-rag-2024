@@ -1,0 +1,18 @@
+# version: '3.8'
+
+services:
+  app:
+    build:
+      context: .  # Устанавливаем контекст на корневую директорию проекта
+      dockerfile: app/Dockerfile  # Указываем путь к Dockerfile
+    ports:
+      - "8000:8000"      # Связь локального и внутреннего портов для Streamlit
+      - "8888:8888"      # Порт для Jupyter Notebook
+    volumes:
+      - ./data:/app/data  # Монтируем локальную папку data в контейнер
+      - ./vector_db/nornikel_index:/app/vector_db/nornikel_index  # Монтируем папку nornikel_index в контейнер
+    environment:
+      - STREAMLIT_SERVER_PORT=8000  # Устанавливаем порт
+
+
+    command: ["sh", "-c", "streamlit run main.py --server.port=8000 & jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --no-browser"]
