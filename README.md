@@ -8,7 +8,7 @@
 
 Для успешной работы обязательно потребуются данные хакатона, скачать можно [здесь](https://drive.google.com/file/d/1bHGJGOnVtRYCl7LJ8eR7VGwKd6C7eMK6/view?usp=drive_link).
 
-Презентация проекта: [ссылка](https://docs.google.com/presentation/d/1YBeiMNJQSEzJx8hK0fFps5mEyzG_nEi2/edit#slide=id.g31c94cb3218_0_169)
+Презентация проекта: [ссылка](https://docs.google.com/presentation/d/1zIQuq2tAB_irfEUKqE9o7y3hMjgsTv-R/edit?usp=drive_link&ouid=116877224998627974524&rtpof=true&sd=true)
 
 ## Информация о ноутбуках
 
