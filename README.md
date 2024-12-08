@@ -10,7 +10,7 @@
 
 Презентация проекта: [ссылка](https://drive.google.com/file/d/1zIQuq2tAB_irfEUKqE9o7y3hMjgsTv-R/view)
 
-👥 Наша команда:
+## 👥 Наша команда:
 
 3 ML-разработчика и 1 аналитик 🤝🔥.
 
