@@ -12,9 +12,10 @@
 
 ## Информация о ноутбуках
 
-Существует две версии решения: 
-- [полная версия в одном ноутбуке](https://github.com/metanovus/nornikel-rag-2024/tree/main/notebooks/for_demontration) (выполнение индексации документов + генерация ответов через VLM).
+Существует несколько версий решения: 
+- [полная версия в одном ноутбуке](https://github.com/metanovus/nornikel-rag-2024/tree/main/notebooks/for_demontration) (выполнение индексации документов через ColPali + генерация ответов через Vikhr-2-VL).
 - [две части полной версии](https://github.com/metanovus/nornikel-rag-2024/tree/main/notebooks/for_testing) (Часть 1 - для создания векторной БД, часть 2 - для инференсов).
+- [специальная версия](https://drive.google.com/file/d/1OaaVAQY5A9o3QIvGhHMH71Qtlp3m0u0O/view?usp=drive_link) (предназначенная для углубленного тестирования с готовой базой и данными - архив весом около 888 МБ).
 
 ## Установка
 
