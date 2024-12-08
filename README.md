@@ -1,4 +1,4 @@
-## Мультимодальная система RAG с использованием ColPali + Qwen-2-VL
+## Мультимодальная система RAG: ColPali + Vikhr-2-VL
 
 ![image](https://github.com/user-attachments/assets/89cf16d4-f46e-43e5-9132-6d6a124ac9e7)
 
